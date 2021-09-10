@@ -75,7 +75,7 @@
 ||surviv.io^$important
 ||zombsroyale.io^$important
 ||deeeep.io^$important
-||gratic.io^$important
+||gartic.io^$important
 ||wings.io^$important
 ||warbot.io^$important
 ||brutal.io^$important
@@ -125,3 +125,4 @@
 ||teamball.io^important
 ||iogames.space^$important
 ||iogames.onl^$important
+||warbot.io^$important
