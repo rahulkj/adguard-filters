@@ -158,3 +158,5 @@
 ||Copter.io^$important
 ||Boas.io^$important
 ||AntWar.io^$important
+||tilefall.io^$important
+||kevin.games^$important
