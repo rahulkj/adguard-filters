@@ -133,3 +133,4 @@
 ||antWar.io^$important
 ||tilefall.io^$important
 ||kevin.games^$important
+||slither.io^$important
