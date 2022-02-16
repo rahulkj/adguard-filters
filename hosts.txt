@@ -134,3 +134,10 @@
 ||tilefall.io^$important
 ||kevin.games^$important
 ||slither.io^$important
+||msgamestudios.com^$important
+||xboxlive.com^$important
+||ac-pocketcamp.com^$important
+||nintendo.com^$important
+||rayjump.com^$important
+||minecraft.com^$important
+||playfabapi.com^$important
